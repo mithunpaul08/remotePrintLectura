@@ -1,1 +1,2 @@
-# remotePrintLectura
+command ./printLectura.sh zlib.pdf
+

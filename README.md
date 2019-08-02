@@ -8,7 +8,7 @@ Change the login details to yours obviously
 
 as of fall 2018 lw0d is the name of the printer in 7th floor kitchen of gould simpson. change that too.
 
-# after you manually fill in your login details here command to use from you laptop/machine outside lectura vlan: `./printLecturaNoSsh.sh zlib.pdf`
+# after you manually fill in your login details here command to use from you laptop/machine outside lectura vlan: `./printLecturaNoSsh.sh zlib.pdf clj1d` where zlib.pdf is the name of file and clj1d is the name of the printer
 
 
 

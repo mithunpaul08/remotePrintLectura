@@ -18,7 +18,8 @@ also I would strictly suggest using ssh key instead of plain text
 `ssh-copy-id -i ~/.ssh/id_rsa.pub yourname@lectura.cs.arizona.edu`
 
 If you do that, you can just remove the password fields and use scp line and ssh lines alone. Lectura should log you in with your public key.
-# after you have ssh set up here is the command to use from you laptop/machine outside lectura vlan: `./printLectura_ssh.sh zlib.pdf clj1d` where zlib.pdf is the name of file and clj1d is the name of the printer
+
+after you have ssh set up here is the command to use from you laptop/machine outside lectura vlan: `./printLectura_ssh.sh zlib.pdf clj1d` where zlib.pdf is the name of file and clj1d is the name of the printer
 
 
 

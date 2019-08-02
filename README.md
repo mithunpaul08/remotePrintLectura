@@ -1,6 +1,8 @@
 ## Prerequisites
 
-- Expect (you will have to install Expect if you don't already have it:https://linux.die.net/man/1/expect . for mac: `brew install expect`)
+- Expect
+    - Linux machines: https://linux.die.net/man/1/expect . 
+    - for mac: `brew install expect`
 
 
 # command to print without ssh

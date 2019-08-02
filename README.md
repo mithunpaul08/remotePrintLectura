@@ -22,6 +22,7 @@ after you have ssh set up here is the command to use from you laptop/machine out
 # Notes
 - for no ssh change the login details to yours obviously
 
-- as of fall 2018 lw0dand clj1d are the names of the printer in 7th floor kitchen of gould simpson. change that too.
+- as of fall 2018 lw0dand clj1d are the names of the printer in 7th floor kitchen of gould simpson. 
+- adding a `d` to the end of the printer name will print double sided pages. Eg: `lw0d`
 
 - make sure the printers are not asleep
